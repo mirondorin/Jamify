@@ -1,0 +1,9 @@
+.songs-grid {
+    height: 100%;
+    background: #040D12;
+    border-radius: 5px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    overflow: scroll;
+}

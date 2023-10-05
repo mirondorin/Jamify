@@ -1,0 +1,20 @@
+.song-genre {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    background: #183D3D;
+}
+
+.song-genre:hover {
+    cursor: pointer;
+}
+
+.song-name {
+    color: #afd1c5;
+    font-size: large;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px;
+    word-break: break-word;
+}
